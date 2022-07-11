@@ -57,7 +57,7 @@ body.appear {
 }
 
 header {
-  height: var(--nav-height);
+  height: var(--nav);
 }
 
 h1, h2, h3,
